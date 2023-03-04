@@ -1,0 +1,38 @@
+button{
+  font-family: sans-serif;
+  margin: 5px 5px 3px 5px;
+  font-size: 15px;
+  border: 2px solid green;
+  text-align: center !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  color: white;
+  background-color: green;
+}
+
+
+#button3 {
+margin-left: 195px !important;
+}
+
+#length {
+  width: 60px;
+  margin-left: 10px;
+}
+
+#input {
+  margin-bottom: 10px;
+}
+.form-control {
+  height: 150px;
+  
+}
+#label {
+  margin-left: 5px;
+}
